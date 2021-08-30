@@ -11,7 +11,7 @@ struct node
     struct node *previous;
 } *head = NULL, *tail = NULL;
 
-int main21()
+int main()
 {
     int choice;
     while (1)
